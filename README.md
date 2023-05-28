@@ -4,7 +4,9 @@ Ogiflix - Free React Native Movie Template
 
 ## Description
 
-A free to use template for your react native project.
+A free to use template for your react native project.  
+
+<img src="https://github.com/Alpaguz/React-Native-Free-Movie-Template-OgiFlix/blob/main/image.png?raw=true" width="200">
 
 ## Getting Started
 
@@ -26,14 +28,14 @@ npx expo start
 
 ## Author
 
-*Alpaguz
+Alpaguz  
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://github.com/MarketingPipeline/Awesome-Repo-Template/](https://tr.linkedin.com/in/salih-oğuzhan-ozturk-7b9483270))
 
 ## License
 
-This project is licensed under the [mit] License - see the LICENSE.md file for details
+This project is licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) - see the LICENSE.md file for details
 
 ## Links
 
-Inspiration, code snippets, etc.
-* [figma link](https://github.com/matiassingers/awesome-readme)
+* [Figma Link](https://www.figma.com/community/file/1207681525249584130)
