@@ -1,4 +1,4 @@
-# Awesome-Repo-Template [![Awesome](https://awesome.re/badge.svg)](https://github.com/MarketingPipeline/Awesome-Repo-Template/)
+# OgiFlix React Native Free Movie Template [![Awesome]([https://awesome.re/badge.svg](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB))]([https://github.com/MarketingPipeline/Awesome-Repo-Template/](https://github.com/facebook/react-native))
 
 <a href="https://github.com/MarketingPipeline/Awesome-Repo-Template/">
 <img height=350 alt="Repo Banner - Awesome Repo Template" src="https://capsule-render.vercel.app/api?type=waving&color=c4a2bd&height=300&section=header&text=Awesome%20Repo%-Template&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Easily%20setup%20your%20next%20repo!&descAlignY=60&descAlign=50"></img></a>
