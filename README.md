@@ -1,6 +1,4 @@
-# Project Title
-
-Ogiflix - Free React Native Movie Template
+# Ogiflix - Free React Native Movie Template
 
 ## Description
 
